@@ -100,11 +100,10 @@ Summary
   What would you do differently
 ```
 
-- **Project-Management Board** Set-Up and Link added to Slack.
+- **Project-Management Board** Set-Up and Link added
   - Add features to the features/warehouse card.
   - Add To Do Card with tasks and due dates for the project.
   - Add any resources you will need with links, etc.
-  - Schedule the Alpha, Beta, and Gold Demo Dates.
   - Initial repo set up in github for the project, link included in project-management board.
 
 ## Stand-Up
