@@ -55,7 +55,7 @@ Optional:
   - All of Level 2
   - Incorporate a 3rd party API for information about the destination.
   - Possible APIs
-  - Open Brewery DB
+  - [Open Brewery DB](https://www.openbrewerydb.org/)
 
 
 ♦♥♣♠
@@ -67,7 +67,7 @@ User Story: As a user, I want to be able to view the weather for a particular lo
 Requires:
 
   - React
-  - Third party API: OpenWeatherMap API
+  - Third party API: [OpenWeatherMap API](https://openweathermap.org/api)
 
 Optional:
 
@@ -75,7 +75,7 @@ Optional:
   - Express JSON API
 
 **Weather App Level 1**
-  - Use the OpenWeatherMap API
+  - Use the [OpenWeatherMap API](https://openweathermap.org/api)
   - Ask a user for a location.
   - See the weather forecast for the week (list of all days, Sunday - Saturday).
   - See the weather details for each day (view one day at a time).
@@ -96,11 +96,11 @@ Optional:
 
 ### Job Tracker
 
-User Story: As a user, I want to be able to view a list of job postings and the job details from the Github Jobs page.
+User Story: As a user, I want to be able to view a list of job postings and the job details from the [Github Jobs page](https://jobs.github.com/).
 
 Requires:
   - React
-  - Third party API: Github Jobs API
+  - Third party API: [Github Jobs API](https://jobs.github.com/api)
   - CORS Proxy (Express App, or a third party proxy)
 
 Optional:
@@ -108,7 +108,7 @@ Optional:
   - Express JSON API
 
 **Job Tracker Level 1**
-  - Use the Github Jobs API
+  - Use the [Github Jobs API](https://jobs.github.com/api)
   - Ask a user for a programming language, (i.e. Python, Ruby, JavaScript).
   - See a list of all available jobs.
   - See the details for a particular job.
@@ -116,7 +116,7 @@ Optional:
 **Job Tracker Level 2**
   - All of Level 1
   - Narrow searches based a location, (i.e. Atlanta, Houston, New York).
-  - Add "Apply" link to the details page (Use this post as an example.)
+  - Add "Apply" link to the details page (Use [this post](https://boards.greenhouse.io/github/jobs/3429087) as an example.)
 
 **Job Tracker Level 3**
   - All of Level 2
@@ -155,7 +155,7 @@ Optional:
   - Tie an activity to a specific date.
   - Flag activities as "overdue" if they're incomplete beyond a certain date.
   - Allow a user to "clone" an activity to a new date.
-  - Use the Bored API to add a random activity.
+  - Use the [Bored API](https://www.boredapi.com/) to add a random activity.
 
 
 
@@ -190,6 +190,7 @@ Your task is to create a React Application that meets the following requirements
   - Build the app around solving a problem, read the user story!
   - COMMUNICATE early, and often!
   - Keep it SIMPLE! (No swords where butter knives will do!)
+  - Use a [Project-Management Board](https://trello.com/invite/b/7afjQXiy/fcdfd7c205e84c7bcfac024a8b4045b8/agile-sprint-board)
 
 ## DO NOT
   - Shoehorn a problem into a tech stack.
